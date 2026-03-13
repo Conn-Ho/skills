@@ -1,9 +1,9 @@
 ---
-name: startup-autopsy
+name: startup-risk-radar
 description: Evaluate startup ideas, business models, and product strategies against the 7 deadly failure antipatterns extracted from 1,749 dead startups that burned $535B+. Use when the user is evaluating a startup idea, planning a new product, reviewing a business model, assessing competitive positioning, checking unit economics, or asking "will this work?" Also trigger when the user mentions startup risk, failure patterns, competitive moat, unit economics, burn rate, market need validation, regulatory risk, founder conflict, product-market fit concerns, or pivot decisions. Provides structured risk assessment, red flag identification, and actionable recommendations based on real failure data.
 ---
 
-# Startup Autopsy — Failure Pattern Analysis
+# Startup Risk Radar — Failure Pattern Analysis
 
 Framework from 1,749 dead startups and $535.4B burned capital. Source: loot-drop.io
 
